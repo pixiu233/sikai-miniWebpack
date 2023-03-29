@@ -9,9 +9,11 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {},
   "dependencies": {
+    "@babel/core": "^7.21.3",
     "@babel/generator": "^7.10.5",
+    "@babel/parser": "^7.21.3",
+    "@babel/preset-env": "^7.20.2",
     "@babel/traverse": "^7.10.5",
     "babylon": "^6.18.0",
     "ejs": "^3.1.3",
